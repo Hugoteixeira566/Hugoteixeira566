@@ -1,6 +1,6 @@
 
 <div align="center">   
- <img src=https://www.flaticon.com/free-icon/developer_10169752?related_id=10169718&origin=search /> 
+ <img src= https://pt.linkedin.com/pulse/o-maior-erro-de-um-desenvolvedor-web-se-esquecer-disso-eduardo-bona /> 
 </div>
 
 
