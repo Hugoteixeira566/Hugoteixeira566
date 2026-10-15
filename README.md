@@ -3,7 +3,7 @@
 
  Description :  "I'm loving software development, and in the near future, I want to collaborate on projects   that have some meaning to me."
 
-🌱 I’m currently learning 
+🌱 I learn
 
 <img
     align="left"  alt="HTML" title="HTML"  width="30px"  style="padding-right: 10px;" 
@@ -17,6 +17,9 @@
     align="left"  alt="Git"  title="Git" width="30px"  style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
+
 <br>
 
 - ⚡ I want to learn: 
