@@ -12,7 +12,8 @@
 
  <img 
   align="left"  alt="HTML" title="HTML"  width="80px"  style="padding-right: 10px;" 
-  align="center" alt="cypherm0nk-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  align="center" alt="cypherm0nk-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+  />
 <img 
     align="left"  alt="CSS" title="CSS"  width="30px"  style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -25,9 +26,8 @@
  align="left"  alt="SQL"  title="SQL" width="30px"  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
- 
    <img 
-    align="left"  alt="github"  title="github" width="30px" color="blue" style="padding-right: 10px;" 
+    align="left"  alt="github"  title="github" width="30px" color="yellow" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
           
  
