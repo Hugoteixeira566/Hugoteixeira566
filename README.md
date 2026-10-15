@@ -55,7 +55,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<br> <br/>
+ <br/>
 
   ## statistics
 <img 
@@ -63,7 +63,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
-  <br> <br/>
+   <br/>
   
 - Contact
   teixeirinha566@gmail.com
