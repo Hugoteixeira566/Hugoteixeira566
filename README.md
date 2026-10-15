@@ -63,10 +63,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
-   <br/>
-   
-- Contact
-  teixeirinha566@gmail.com 
+  
 
 <!--
 **Hugoteixeira566/Hugoteixeira566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
