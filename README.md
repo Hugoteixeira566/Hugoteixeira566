@@ -5,7 +5,14 @@
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
-<img align="center" alt="cypherm0nk-html"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
