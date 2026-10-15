@@ -65,9 +65,8 @@
   
   <br> <br/>
   
-## Contact
-
-teixeirinha566@gmail.com
+- Contact
+  teixeirinha566@gmail.com
 
 <!--
 **Hugoteixeira566/Hugoteixeira566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
