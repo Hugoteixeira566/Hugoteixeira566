@@ -20,8 +20,7 @@
 <img
  align="left"  alt="SQL"  title="SQL" width="30px"  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-          
-
+ 
 <br>
 
 - ⚡ I want to learn: 
