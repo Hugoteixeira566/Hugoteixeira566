@@ -10,7 +10,7 @@
 ### Description :  
 "I'm loving software development, and in the near future, I want to collaborate on projects   that have some meaning to me."
 
-###🌱 I learn  <p style="font-size:100px">&#128187;</p>
+### 🌱 I learn  <p style="font-size:100px">&#128187;</p>
 
 <img
     align="left"  alt="HTML" title="HTML"  width="30px"  style="padding-right: 10px;" 
