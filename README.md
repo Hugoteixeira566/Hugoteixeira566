@@ -23,7 +23,7 @@
 
  
    <img 
-    align="left"  alt="github"  title="github" width="30px"  style="padding-right: 10px;" 
+    align="left"  alt="github"  title="github" width="30px" color="blue" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
           
  
