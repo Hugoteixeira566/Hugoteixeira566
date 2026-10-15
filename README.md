@@ -64,7 +64,7 @@
   />
   
    <br/>
-   <p align="left"  
+   <p 
 - Contact
   teixeirinha566@gmail.com />
 
