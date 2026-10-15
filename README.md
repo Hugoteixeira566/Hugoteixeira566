@@ -1,9 +1,11 @@
 ##   "Hello everyone, we live for this". 👋
 
-Description :  "I'm loving software development, and in the near future, I want to collaborate on projects that have some meaning to me."
+
+ Description :  "I'm loving software development, and in the near future, I want to collaborate on projects   that have some meaning to me."
 
 🌱 I’m currently learning 
-<img 
+
+<img
     align="left" 
     alt="HTML"
     title="HTML" 
