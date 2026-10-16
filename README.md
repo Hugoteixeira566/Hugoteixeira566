@@ -31,9 +31,7 @@
     
   <img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="50" height="50" />   
  
-
  <br>  <br/> 
-
 
 ### ⚡ I want to learn: 
 
