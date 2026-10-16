@@ -29,7 +29,7 @@
  align="left"  alt="SQL"  title="SQL" width="30px"  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     
-  <img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="80" height="80" />   
+  <img src="https://github.com/bluetrain-dream/bluetrain-dream/blob/main/github.svg" width="50" height="50" />   
  
 
  <br>  <br/> 
