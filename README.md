@@ -58,8 +58,9 @@
   ## statistics
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hugoteixeira566&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&layout=compact&theme=tokyonight"/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hugoteixeira566&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
