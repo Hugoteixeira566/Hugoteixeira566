@@ -8,11 +8,6 @@
 ### 🌱 I learn  
 <p style="font-size:100px">&#128187;</p>
 
-<img
-    align="left"  alt="HTML" title="HTML"  width="30px"  style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
  <img 
   align="left"  alt="HTML" title="HTML"  width="80px"  style="padding-right: 10px;" 
   align="center" alt="cypherm0nk-htm5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
