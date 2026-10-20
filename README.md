@@ -58,9 +58,9 @@
   ## statistics
 <div align="center">
 
-<p height="100em">![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hugoteixeira566&show_icons=true&theme=tokyonight&cache_seconds=86400)</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hugoteixeira566&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<p height="100em">![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&layout=compact&theme=tokyonight&cache_seconds=86400)</p>
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoteixeira566&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 </div>
 
