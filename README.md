@@ -56,7 +56,7 @@
  <br/>
 
   ## statistics
-<div align="center" height="200em">
+<div align="center" height="100em">
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hugoteixeira566&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
